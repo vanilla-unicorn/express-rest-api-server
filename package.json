@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "vanilla-unicorn <vanilla_unicorn@via.tokyo.jp>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
