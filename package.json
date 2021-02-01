@@ -1,0 +1,10 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "vanilla-unicorn <vanilla_unicorn@via.tokyo.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
